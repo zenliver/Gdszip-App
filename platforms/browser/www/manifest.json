@@ -1,0 +1,11 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "吴彬律师",
+  "short_name": "吴彬律师",
+  "version": "com.gdszip.app",
+  "description": "吴彬律师App",
+  "author": "Zenliver",
+  "icons": [],
+  "start_url": "index.html"
+}
